@@ -9,3 +9,5 @@
     	- According to this article, the most widely used programming language is Javascript instead of Python. In 2018, Javascript accounts for 54.24% of language usage, which provides enough motivations for me to watch the tutorials.
     
     1.3 Check out the rest cool facts in the above link
+
+Martin Wu's comments: I have something to add on. The article mentions that in 2019, employers pay most attention on employer's willingness to learn which takes up to 54.68%.
